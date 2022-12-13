@@ -2,9 +2,9 @@
 # 关于我们
 
 
-# [隐私政策](./policy_kawayi.html)
+# [隐私政策](./policy_kaleme.html)
 
-# [使用条款](./agreement_kawayi.html)
+# [使用条款](./agreement_kaleme.html)
 
 
 # 意见反馈
